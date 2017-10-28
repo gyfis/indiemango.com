@@ -1,0 +1,63 @@
+html,body,a,img{padding:0;margin:0;border:0}
+a{color:white;font-family:'Open Sans',sans-serif;font-weight:300;font-size:105%;text-decoration:none;cursor:pointer;cursor:hand}
+#a-projects{color:#1A6FA3}
+#a-contacts{color:#A32641}
+#a-language{color: #6628a5}
+
+#a-language:hover{ color: #bd5dff; }
+.a-text{-webkit-transition:all 0.15s}
+#a-partity{color:#42adf9}
+#a-partity:hover{color:#a0cff0}
+#a-partityL{color:#42adf9}
+#a-partityL:hover{color:#f69797}
+#a-daily{color: #25e3e8;}
+#a-daily:hover{color:#97e0e2} /* animation */
+#a-twitter{color:#00aced}
+#a-twitter:hover{color:#9de6ff}
+#a-facebook{color:#3b5998}
+#a-facebook:hover{color:#8b9dc3}
+#a-iphonelife{ color: #568bff; }
+#a-iphonelife:hover{ color: #1244ff; }
+#a-fish{color: #0cb908}
+#a-fish:hover{color: #128100}
+#a-circles:hover {
+	color: #ff77db;
+}
+#a-circles {
+	color: #fd23bd;
+}
+#mango{background-color:#e38181;opacity:0.5;position:absolute; margin:5%60%;width:450px;height:280px;border-radius:70%45%50%70%/70%55%65%50%;-webkit-transform:rotate(-7deg)}
+#size90{font-size:90%}
+#size80{font-size:80%}
+#size70{font-size:70%}
+#size60{font-size:60%}
+#size50{font-size:50%}
+#size40{font-size:40%}
+#size30{font-size:30%}
+#size20{font-size:20%}
+#size10{font-size:10%}
+div{padding:0;margin:0;border:0;font-family:'Open Sans',sans-serif;font-weight:300;font-size:x-large;width:100%;height:100%;position:absolute;overflow:hidden}
+.text{width:60%;height:auto;margin:0 auto;padding:5%;text-align:left;position:relative;color:#fff}
+#nav-marker{width:36;height:36;top:18%;left:10%;margin:-9 0 0 -9;position:fixed;border:1 solid white;background-color:transparent;opacity:0.5;border-radius:50%;}
+.nav-circle{border-radius:50%;opacity:0.5}
+#c1{width:20;height:20;top:18%;left:10%;position:fixed;background-color:#FFF}
+#c2{width:20;height:20;top:25%;left:10%;position:fixed;background-color:#1C5F8C}
+#c3{width:20;height:20;top:32%;left:10%;position:fixed;background-color:#1472B7}
+#c4{width:20;height:20;top:39%;left:10%;position:fixed;background-color:#00A7AC}
+#c5{width:20;height:20;top:46%;left:10%;position:fixed;background-color:#C96330}
+#c6{width:20;height:20;top:53%;left:10%;position:fixed;background-color:#180052}
+#c7{width:20;height:20;top:60%;left:10%;position:fixed;background-color:#53F321}
+#c8{width:20;height:20;top:67%;left:10%;position:fixed;background-color:#BF2888}
+#c9{width:20;height:20;top:74%;left:10%;position:fixed;background-color:#000}
+#c10{width:20;height:20;top:81%;left:10%;position:fixed;background-color:#A32626}
+#first-text{color:#000}
+#div-firstPage{background-color:#FFF;top:0%}
+#div-projects{background-color:#1C5F8C;top:100%}
+#d-1{background-color:#1472B7;top:200%}
+#d-2{background-color:#00A7AC;top:300%}
+#d-3{background-color:#C96330;top:400%}
+#d-4{background-color:#180052;top:500%}
+#d-5{background-color:#53F321;top:600%}
+#d-6{background-color:#BF2888;top:700%}
+#d-7{background-color:#000;top:800%}
+#div-contacts{background-color:#A32626;top:900%;}
